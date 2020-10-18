@@ -2,4 +2,4 @@
 
 * Create workbook "Example.xlsx"
 * Call macro from workbook "Accounting.xlsx"
-* Call user-defined function from workbook "Functional.xlsm"
+* Call user-defined function from workbook "Functional.xlsm" (Windows-only)
